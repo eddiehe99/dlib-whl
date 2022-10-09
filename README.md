@@ -12,7 +12,7 @@ The `XX` depends on your situation.
 
 ## Configuration
 
-Open file `C:\Users\XXX\AppData\Local\Programs\Python\Python39\Lib\site-packages\dlib\_init_.py`.
+Open file `C:\Users\XXX\AppData\Local\Programs\Python\PythonXX\Lib\site-packages\dlib\_init_.py`.
 
 The `XXX` depends on your situation.
 
