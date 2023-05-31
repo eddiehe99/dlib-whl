@@ -61,7 +61,7 @@ print(dlib.cuda.get_num_devices())
 
 ---
 
-## Warnning
+## Warning
 
 It is a matter of luck whether the `.whl` file works on your computer.
 
