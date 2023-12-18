@@ -14,7 +14,7 @@ The `XX` depends on your situation.
 
 Open file `C:\Users\XXX\AppData\Local\Programs\Python\PythonXX\Lib\site-packages\dlib\_init_.py`.
 
-The `XXX` depends on your situation or the whole filepath may be totally different based on your installation configuration.
+The `XXX` depends on your situation and the whole filepath may be different based on your installation configuration.
 
 ### With CUDA
 
@@ -30,7 +30,7 @@ if "ON" == "ON":
     )
 ```
 
-The `XX.X` depends on your situation or the whole filepath may be totally different based on your installation configuration.
+The `XX.X` depends on your situation or the whole filepath may be different based on your installation configuration.
 
 ### Without CUDA
 
@@ -63,8 +63,8 @@ print(dlib.cuda.get_num_devices())
 
 ## Warning
 
-It is a matter of luck whether the `.whl` file works on your computer.
+Whether the `.whl` file works on your computer is a matter of luck.
 
-If the `.whl` file smooth your installation, you could send a e-mail of gratitude to me. This is enough to delight me not less than a day.
+If the `.whl` file smooths your installation, you could send an e-mail of gratitude to me. This is enough to delight me for not less than a day and makes you incredibly sexually attractive.
 
-If it does not work, I highly recommend you to download the source code and install by yourself. Besides, you could also send a e-mail full of swear words or other trash to me.
+If it does not work, I highly recommend you download the source code and install by yourself. Besides, you could also send an e-mail to me to complain.
