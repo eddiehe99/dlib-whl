@@ -67,4 +67,12 @@ Whether the `.whl` file works on your computer is a matter of luck.
 
 If the `.whl` file smooths your installation, you could send an e-mail of gratitude to me. This is enough to delight me for not less than a day and makes you incredibly sexually attractive.
 
-If it does not work, I highly recommend you download the source code and install by yourself. Besides, you could also send an e-mail to me to complain.
+If it does not work, please make an attempt at the following steps.
+
+1. Try to install different versions of `.whl` files on the [Release](https://github.com/eddiehe99/dlib-whl/releases) page.
+
+2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x).
+
+3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
+
+By the way, you could also send an e-mail to me to complain.
