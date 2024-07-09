@@ -69,10 +69,10 @@ If the `.whl` file smooths your installation, you could send an e-mail of gratit
 
 If it does not work, please make an attempt at the following steps.
 
-1. Try to install different versions of `.whl` files on the [Release](https://github.com/eddiehe99/dlib-whl/releases) page.
+1. Try to install different versions of `.whl` files on the [Release](https://github.com/eddiehe99/dlib-whl/releases?_blank) page.
 
-2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x).
+2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x?_blank).
 
-3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
+3. Download the source code from [dlib (official)](https://github.com/davisking/dlib?_blank) and install by yourself.
 
 By the way, you could also send an e-mail to me to complain.
