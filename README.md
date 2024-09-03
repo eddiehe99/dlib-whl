@@ -7,11 +7,11 @@ Releases for 19.24.3/19.24.4/19.24.5/19.24.6 are on the way.
 1. Download `.whl` files form [Releases](https://github.com/eddiehe99/dlib-whl/releases)
 
 2. Install
-   
+
     ```bash
     pip install dlib-XX.XX.X-cpXX-cpXX-win_amd64.whl
     ```
-    
+
     The `XX` depends on your situation.
 
 ---
