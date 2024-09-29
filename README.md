@@ -1,6 +1,6 @@
 # README
 
-Releases for 19.24.6 are on the way.
+Support for CUDA is on the way.
 
 ## Installation
 
