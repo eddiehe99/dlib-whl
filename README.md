@@ -1,6 +1,6 @@
 # README
 
-Releases for 19.24.5/19.24.6 are on the way.
+Releases for 19.24.6 are on the way.
 
 ## Installation
 
