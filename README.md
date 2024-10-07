@@ -85,6 +85,6 @@ If it does not work, please make an attempt at the following steps.
 
 3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
 
-P.S. The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out [issue #2979](https://github.com/davisking/dlib/issues/2979)
+P.S. The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out [davisking/dlib#2979](https://github.com/davisking/dlib/issues/2979).
 
 By the way, you could also send an e-mail to me to complain.
