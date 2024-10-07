@@ -73,7 +73,7 @@ Run the `tempCodeRunnerFile.py`.
 
 ## Warning
 
-Whether the `.whl` file works on your computer is a matter of luck.
+**Whether the `.whl` file works on your computer is a matter of luck!**
 
 If the `.whl` file smooths your installation, you could send an e-mail of gratitude to me. This is enough to delight me for not less than a day and makes you incredibly sexually attractive.
 
@@ -84,5 +84,7 @@ If it does not work, please make an attempt at the following steps.
 2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x).
 
 3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
+
+P.S. The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out [issue #2979](https://github.com/davisking/dlib/issues/2979)
 
 By the way, you could also send an e-mail to me to complain.
