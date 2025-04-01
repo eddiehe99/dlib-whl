@@ -85,6 +85,20 @@ If it does not work, please make an attempt at the following steps.
 
 3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
 
-P.S. The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out [davisking/dlib#2979](https://github.com/davisking/dlib/issues/2979).
-
 By the way, you could also send an e-mail to me to complain.
+
+## PS
+
+### Configuration for CUDNN Installation
+
+The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out the issue [davisking/dlib#2979](https://github.com/davisking/dlib/issues/2979).
+
+The following steps may work:
+
+1. Move files from subfolders to parent folders.
+
+    - Move all files from C:\Program Files\NVIDIA\CUDNN\vx.x\bin\xx.x to C:\Program Files\NVIDIA\CUDNN\vx.x\bin
+    - Move all files from C:\Program Files\NVIDIA\CUDNN\vx.x\include\xx.x to C:\Program Files\NVIDIA\CUDNN\vx.x\inlcude
+    - Move all files from C:\Program Files\NVIDIA\CUDNN\vx.x\lib\xx.x to C:\Program Files\NVIDIA\CUDNN\vx.x\lib
+
+2. Add the system variable CMAKE_PRIFIX_PATH whose value is "C:/Program Files/NVIDIA/CUDNN/vx.x".
