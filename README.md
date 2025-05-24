@@ -1,6 +1,6 @@
 # README
 
-Support for CUDA is on the way.
+Support for CUDA is **ALWAYS** on the way.
 
 ## Installation
 
