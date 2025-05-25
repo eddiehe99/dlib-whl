@@ -75,7 +75,7 @@ Run the `tempCodeRunnerFile.py`.
 
 **Whether the `.whl` file works on your computer is a matter of luck!**
 
-If the `.whl` file smooths your installation, you could send an e-mail of gratitude to me. This is enough to delight me for not less than a day and makes you incredibly sexually attractive.
+If the `.whl` file smooths your installation, you could send an email of gratitude to me. This is enough to delight me for not less than a day and makes you incredibly sexually attractive.
 
 If it does not work, please make an attempt at the following steps.
 
@@ -83,9 +83,12 @@ If it does not work, please make an attempt at the following steps.
 
 2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x).
 
-3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install by yourself.
+3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install it by yourself.
 
-By the way, you could also send an e-mail to me to complain.
+By the way, you could also send an email to me to complain.
+
+> [!NOTE]
+> My email address is shown on my GitHub [profile](https://github.com/eddiehe99).
 
 ## PS
 
