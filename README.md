@@ -81,7 +81,7 @@ If it does not work, please make an attempt at the following steps.
 
 1. Try to install different versions of `.whl` files on the [Release](https://github.com/eddiehe99/dlib-whl/releases) page.
 
-2. Try `.whl` files on [Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x).
+2. Try `.whl` files on [z-mahmud22/Dlib_Windows_Python3.x](https://github.com/z-mahmud22/Dlib_Windows_Python3.x) or [alesanfra/dlib-wheels](https://github.com/alesanfra/dlib-wheels).
 
 3. Download the source code from [dlib (official)](https://github.com/davisking/dlib) and install it by yourself.
 
@@ -94,7 +94,7 @@ By the way, you could also send an email to me to complain.
 
 ### Configuration for CUDNN Installation
 
-The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out the issue [davisking/dlib#2979](https://github.com/davisking/dlib/issues/2979).
+The installation of cuDNN greater than 9.0.0 may cause weird errors. Please check out the issue [davisking/dlib#2979](https://github.com/davisking/dlib/issues/2979) and [davisking/dlib#2810](https://github.com/davisking/dlib/issues/2810).
 
 The following steps may work:
 
@@ -102,6 +102,6 @@ The following steps may work:
 
     - Move all files from `C:\Program Files\NVIDIA\CUDNN\vx.x\bin\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\bin`
     - Move all files from `C:\Program Files\NVIDIA\CUDNN\vx.x\include\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\inlcude`
-    - Move all files from `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\lib`
+    - Move the folder from `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\xx.x\x64` to `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\x64`
 
 2. Add the system variable `CMAKE_PRIFIX_PATH` whose value is `C:/Program Files/NVIDIA/CUDNN/vx.x`.
