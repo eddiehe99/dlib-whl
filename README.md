@@ -100,8 +100,8 @@ The following steps may work:
 
 1. Move files from subfolders to parent folders.
 
-    - Move all files from `C:\Program Files\NVIDIA\CUDNN\vx.x\bin\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\bin`
+    - Move the folder `x64` from `C:\Program Files\NVIDIA\CUDNN\vx.x\bin\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\bin`
     - Move all files from `C:\Program Files\NVIDIA\CUDNN\vx.x\include\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\inlcude`
-    - Move the folder from `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\xx.x\x64` to `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\x64`
+    - Move the folder `x64` from `C:\Program Files\NVIDIA\CUDNN\vx.x\lib\xx.x` to `C:\Program Files\NVIDIA\CUDNN\vx.x\lib`
 
 2. Add the system variable `CMAKE_PRIFIX_PATH` whose value is `C:/Program Files/NVIDIA/CUDNN/vx.x`.
